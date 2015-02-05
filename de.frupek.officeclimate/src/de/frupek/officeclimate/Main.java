@@ -1,4 +1,4 @@
-package de.frupek.weatherstation;
+package de.frupek.officeclimate;
 
 import java.text.DecimalFormat;
 
